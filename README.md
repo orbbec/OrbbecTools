@@ -5,4 +5,4 @@ Orbbec SDK related common toolkits.
 
 | **Tools list** | **Download link** | Latest version     |
 | --- | --- | --- |
-| ObMultiDeviceSyncViewer       | [MultiDeviceSyncViewer](https://github.com/orbbec/OrbbecTools/releases/tag/MultiDeviceSyncViewer) |     v1.3.3       |
+| DepthQualityTool       |  |     v1.2.10       |
