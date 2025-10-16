@@ -5,4 +5,4 @@ Orbbec SDK related common toolkits.
 
 | **Tools list** | **Download link** | Latest version     |
 | --- | --- | --- |
-| DepthQualityTool       | [DepthQualityTool]() |     v1.2.10       |
+| DepthQualityTool       | [DepthQualityTool](https://github.com/orbbec/OrbbecTools/releases/tag/DepthQualityTool) |     v1.2.10       |
